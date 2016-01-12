@@ -19,6 +19,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Asgard - A netflix web interface tool for AWS Cloud Management and application deployment.
 - Artifactory - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
 - Awsbox - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
+
 # B
 - Beats - An open source collectors for log files, infrastructure metrics, and other important types of data agitation.
 - Berkshelf - Cookbook source manager for chef, similar to a bundler for ruby.
@@ -27,6 +28,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - BuildMaster - An automated deployment tool. It combines features to manage and automate processes primarily related to continuous integration, database change scripts, and production deployments.
 - Brooklyn - Focused on deployment & post deployment life-cycle management, aware of network typologies integrates with clouds.
 - Barkeep - Code review tool for git projects, focused on code reviewing, can support both pre & post commit workflows.
+
 # C
 - Consul - Makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface.
 - Chef - Configuration management tool which uses a pure-Ruby, DSL for writing system configuration recipes.
