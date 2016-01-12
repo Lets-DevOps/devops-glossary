@@ -14,7 +14,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ K ](#k) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ Q ](#q) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w) | [ X ](#x) | [ Y ](#y) | [ Z ](#z) |
 
 # A
-- AWS - A cloud computing platform offering ready to use web services which are loosely coupled.
+- [AWS][1] - A cloud computing platform offering ready to use web services which are loosely coupled.
 - Ansible - An agent-less orchestration engine that can automate application and systems.
 - Asgard - A netflix web interface tool for AWS Cloud Management and application deployment.
 - Artifactory - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
@@ -164,3 +164,6 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 # Z
 - Zabbix - An opensource, enterprise-class network monitoring framework.
 - Zookeeper - A centralized service for maintaining configuration information, naming, providing group services etc.
+
+
+[1]: https://aws.amazon.com
