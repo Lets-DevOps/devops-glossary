@@ -1,10 +1,11 @@
-# devops-glossary:
+# DevOps Glossary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+[![Build Status](https://travis-ci.org/TheRemoteLab/devops-glossary.svg?branch=master)](https://travis-ci.org/TheRemoteLab/devops-glossary)
+
 
 The Complete DevOps Glossary - Covering DevOps from A to Z. 
 
-" Alphabetically arranged reference work that gives brief definitions of words related to a specific topic. Also called controlled vocabulary."
-
-[Source](http://www.businessdictionary.com/definition/glossary.html#ixzz3x2CyAJi6)
+" Alphabetically arranged reference work that gives brief definitions of words related to a specific topic. Also called controlled vocabulary." - [Source](http://www.businessdictionary.com/definition/glossary.html#ixzz3x2CyAJi6)
 
 ![glossary_logo](https://cloud.githubusercontent.com/assets/8342133/12264204/20b3d262-b95b-11e5-880d-c052b11a5a0a.png)
 
