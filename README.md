@@ -41,6 +41,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Credmgr - Securely manage privileged account credentials via Shamir secret sharing. Its like one passwd for DevOps.
 - ConDep - An opensource infrastructure configuration & deployment DSL specifically targeted (not limited) to Windows platform.
 - CMB(Cloud Message Bus) - A highly available, horizontally scalable queuing & notification service compatible to AWS SQS, SNS.
+
 # D
 - Docker - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
 - Deis - Open Source Application Platform For Public and Private Clouds. Its built on Docker & CoreOs.
@@ -48,9 +49,11 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Dokku - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
 - Deploykit - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
 - Djangy - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
+
 # E
 - Etcd - A highly-available key value store for shared configuration and service discovery.
 - Eucalyptus - An open source software for building AWS - compatible private and hybrid clouds.
+
 # F
 - Fig - A package management tool, similar to APT, language agnostic, faster and works well with both executable and libraries.
 - Foreman - A complete lifecycle management tool for physical and virtual servers.
@@ -58,6 +61,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Flynn - An open source PaaS platform built on Docker awesomely manages deploying, scaling your applications.
 - Fabric - A command-line tool for streamlining use of SSH for application deployment or systems administration tasks.
 - FAI Fully Automatic Installer - Tool for mass unattained deployments of Linux.
+
 # G
 - Git - An awesome tool to version your source code and collaborate.
 - Graphite - A visualization tool for statistics. One can create customizable reports and dashboards.
@@ -65,29 +69,37 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Gradle - A project automation tool that builds upon the concepts of #Apache Ant and Apache Maven.
 - Grafana - An open source feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 - GoCD - release management tool,build from ground up with pipelines in mind & makes easy to model complex deployment work-flow.
+
 # H
 - Heroku - Platform as a service (PaaS) that enables developers to build and run applications entirely in the cloud.
+
 # I
 - Icinga - A monitoring system checking hosts & services you specify & notifying when things go wrong & they recover.
+
 # J
 - Jenkins - It is an open-source, lightweight CI tool written in Java, with high extensibility and a fast release cycle.
 - Jcloud - Apache jclouds, an open source multi-cloud toolkit for the Java platform, apps are portable across clouds.
 - Juju - An orchestration tool allows software to be quickly deployed, integrated & scaled public/private/hybrid cloud.
+
 # K
 - Kubernetes - An opensource system for managing containerized applications providing deployment & scaling of apps.
 - Kickstart - Uses bash scripts to provision machines over ssh, with no client installation on the target.
 - Kibana - an open source (Apache Licensed), browser based analytic and search dashboard for Elasticsearch.
+
 # L
 - Logstash - A data pipeline that helps you process logs and other event data from a variety of systems.
 - Log.io - A Real-time log monitoring in your browser. Broadcasting logs to the web clients.
 - Loom - Does stuff Puppet doesn't do well or at all bootstrapping machines deploying code & installing reusable modules.
 - Logster - Utility for reading logs & generating metrics to configurable outputs. Graphite, CloudWatch, Nagios & stdout.
+
 # M
 - Memcached - An open-source high performance, distributed memory object caching system.
 - Mcollective - A framework for building server orchestration or parallel job execution systems.
 - Mina - Deployment tool, lets you build and run scripts to manage your app deployments on servers via SSH.
+
 # N
 - Nomad - A Hashicorp product; is a cluster manager & scheduler designed for microservices and batch workloads.
+
 # O
 - Openstack - An open source, massively salable cloud operating system used for building private & public cloud.
 - Opsbot - A pluggable, configurable bot for improving communication in operations.
@@ -96,18 +108,22 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Orc - A model driven orchestration tool for the deployment of application clusters written in Ruby.
 - Opskelaton - Bootstrap DevOps infra with some opinionated defaults(vagrant chef puppet) standard development guidelines.
 - Overcast - CLI for ease to spinup configure & manage clusters without learning curve or complexity of existing management tools.
+
 # P
 - Packer - A tool for creating identical machine images for multiple platforms from a single source configuration
 - Pagerduty - A tool which would help us to increase the uptime of our apps, services, and infrastructure.
 - Poni - Systems management tool for defining, deploying and verifying complex multi-node computer systems.
 - Pulp - A platform for managing repositories of content, such as software packages.
+
 # Q
+
 # R
 - RabbitMQ - RabbitMQ is a queuing tool for DevOps engineers. Supports a large no. of development platforms.
 - Rundeck - A cross-platform opensource software, helps automate ad-hoc & routine procedures in data-center or cloud environment.
 - rkt - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
 - Rudder - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
 - Rex - An agent less orchestration tool written in simple perl.
+
 # S
 - Sensu - A simple & scalable monitoring framework which is designed for cloud.
 - Simian Army - A tool for testing & promoting infrastructure tolerance & high availability.
@@ -122,22 +138,29 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 - Sysdig - An open source, system level exploration: capture system state & activity in linux instance save, filter & analyze.
 - Semaphore - A hosted continuous integration and deployment service for open source and private projects.
 - Sublime-Text - Sublime Text is a cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and its functionality can be extended by users with plugins, typically community-built.
+
 # T
 - Terraform - A tool used in building, changing, and versioning the infrastructure across platforms.
 - Test Kitchen - A test harness tool to execute your configured code on one or more platforms in isolation.
 - Tsuru - An extensible and open source Platform as a Service; that uses Docker to make deploys simple & fast.
 - TeamCity - A feature packed CI tool with out-of-the-box support for java, ruby .Net, & many other languages.
+
 # U
+
 # V
 - Vagrant - It is a cross platform tool to create, boot, configure and destroy development environments.
 - Veewee - A tool for easily & repeatedly building custom Vagrant base boxes, KVMs, & virtual machine images.
 - Vagrant-lxc - Vagrant plugin that allows it to control and provision Linux Containers as an alternative to the built in VirtualBox provider for Linux host.
 - Vaurien - A Chaos Monkey for TCP conn. Randomly disconnects/stalls TCP connections in app to test tolerance and HA.
 - VMFest - a PalletOps project turns VirtualBox into light-weight cloud provider. Useful in developing cloud automation.
+
 # W
 - Weave - Virtual network that connects Docker containers deployed across multiple hosts & enables automatic discovery.
+
 # X
+
 # Y
+
 # Z
 - Zabbix - An opensource, enterprise-class network monitoring framework.
 - Zookeeper - A centralized service for maintaining configuration information, naming, providing group services etc.
