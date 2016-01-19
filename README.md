@@ -15,11 +15,11 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ K ](#k) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ Q ](#q) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w) | [ X ](#x) | [ Y ](#y) | [ Z ](#z) |
 
 # A
- - [AWS][1] - A cloud computing platform offering ready to use web services which are loosely coupled.
- - [Ansible][http://www.ansible.com/] - An agent-less orchestration engine that can automate application and systems.
- - [Asgard][] - A netflix web interface tool for AWS Cloud Management and application deployment.
- - [Artifactory][] - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
- - [Awsbox][] - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
+ - [AWS]([1]: https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
+ - [Ansible](http://www.ansible.com/) - An agent-less orchestration engine that can automate application and systems.
+ - [Asgard](https://github.com/Netflix/asgard/wiki) - A netflix web interface tool for AWS Cloud Management and application deployment.
+ - [Artifactory](https://github.com/Netflix/asgard/wiki) - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
+ - [Awsbox](http://awsbox.org/) - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
  
 # B
  - Beats - An open source collectors for log files, infrastructure metrics, and other important types of data agitation.
@@ -33,7 +33,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 # C
  - Consul - Makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface.
  - Chef - Configuration management tool which uses a pure-Ruby, DSL for writing system configuration recipes.
- - CoreOs - Lightweight OS that support containers out of the box. Can be used as base OS to run your own PaaS
+ - [CoreOS](https://coreos.com) - Lightweight OS that support containers out of the box. Can be used as base OS to run your own PaaS
  - CfEngine - First of its kind. Configuration Management tool, automates large scale, complex infrastructure.
  - Collectd - Demon to collect system performance statistics periodically & provides tons of plugins to analyze values.
  - Chocolatey - It is apt-get for windows. Can install packages & dependencies over CLI.
@@ -44,9 +44,9 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - CMB(Cloud Message Bus) - A highly available, horizontally scalable queuing & notification service compatible to AWS SQS, SNS.
  
 # D
- - Docker - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
- - Deis - Open Source Application Platform For Public and Private Clouds. Its built on Docker & CoreOs.
- - Drone - A Continuous Integration platform built on Docker, written in Go.
+ - [Docker](https://www.docker.com/) - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
+ - [Deis](http://deis.io/) - Open Source Application Platform For Public and Private Clouds. Its built on Docker & CoreOs.
+ - [Drone](https://drone.io) - A Continuous Integration platform built on Docker, written in Go.
  - Dokku - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
  - Deploykit - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
  - Djangy - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
@@ -62,6 +62,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Flynn - An open source PaaS platform built on Docker awesomely manages deploying, scaling your applications.
  - Fabric - A command-line tool for streamlining use of SSH for application deployment or systems administration tasks.
  - FAI Fully Automatic Installer - Tool for mass unattained deployments of Linux.
+ - [Flannel](https://coreos.com/flannel) - etcd backed network fabric for containers
  
 # G
  - Git - An awesome tool to version your source code and collaborate.
@@ -83,9 +84,10 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Juju - An orchestration tool allows software to be quickly deployed, integrated & scaled public/private/hybrid cloud.
  
 # K
- - Kubernetes - An opensource system for managing containerized applications providing deployment & scaling of apps.
+ - [Kubernetes](http://kubernetes.io/) - An opensource system for managing containerized applications providing deployment & scaling of apps.
  - Kickstart - Uses bash scripts to provision machines over ssh, with no client installation on the target.
  - Kibana - an open source (Apache Licensed), browser based analytic and search dashboard for Elasticsearch.
+ - [Kafka](http://kafka.apache.org/) -  distributed, partitioned, replicated commit log service.
  
 # L
  - Logstash - A data pipeline that helps you process logs and other event data from a variety of systems.
@@ -102,21 +104,21 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Nomad - A Hashicorp product; is a cluster manager & scheduler designed for microservices and batch workloads.
  
 # O
- - Openstack - An open source, massively salable cloud operating system used for building private & public cloud.
+ - [Openstack](https://www.openstack.org/) - An open source, massively salable cloud operating system used for building private & public cloud.
  - Opsbot - A pluggable, configurable bot for improving communication in operations.
  - OSV - An operating System for lightweight virtual machines, designed for ground up to run single application, similar to CoreOS.
- - Otto - successor to Vagrant is single solution to develop, deploy application with firstclass support to microservices.
+ - [Otto](https://www.ottoproject.io/) - successor to Vagrant is single solution to develop, deploy application with firstclass support to microservices.
  - Orc - A model driven orchestration tool for the deployment of application clusters written in Ruby.
  - Opskelaton - Bootstrap DevOps infra with some opinionated defaults(vagrant chef puppet) standard development guidelines.
  - Overcast - CLI for ease to spinup configure & manage clusters without learning curve or complexity of existing management tools.
- - Openshift - 
+ - [Openshift](https://www.openshift.com/) - Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
  
 # P
  - Packer - A tool for creating identical machine images for multiple platforms from a single source configuration
  - Pagerduty - A tool which would help us to increase the uptime of our apps, services, and infrastructure.
  - Poni - Systems management tool for defining, deploying and verifying complex multi-node computer systems.
  - Pulp - A platform for managing repositories of content, such as software packages.
- - Prometheus - 
+ - [Prometheus](http://prometheus.io/) - open-source service monitoring system and time series database.
  
 # Q
  
@@ -168,5 +170,17 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Zabbix - An opensource, enterprise-class network monitoring framework.
  - Zookeeper - A centralized service for maintaining configuration information, naming, providing group services etc.
  
-  
-[1]: https://aws.amazon.com
+ 
+## Contributing:
+
+Contributions are welcome!
+
+This repo is just getting started, please contribute to make it super fun.
+
+Check out the [Contributing Guidelines](https://github.com/theremotelab/devops-glossary/blob/master/CONTRIBUTING.md).
+
+## License:
+
+devops-glossary by The Remote Lab is licensed under the Apache 2.0 License.
+
+See the [License](https://github.com/TheRemoteLab/devops-glossary/blob/master/LICENSE) for more info.
