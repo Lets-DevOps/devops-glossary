@@ -21,8 +21,6 @@ Quality standard
 To be on the list, it would be nice if entries adhere to these quality standards:
 
 * Generally useful to the community
-* Clearly "what is it" --> which category it belongs : article, video, twitter account, ...
-* Clearly stating "what is it for": mention the problem it solves. Just try your best, make it clear for the next person.
 * Solves a real problem (even a small one)
 * If it is a WIP (work in progress, not safe for production), mention it. 
 
