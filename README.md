@@ -16,10 +16,10 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 
 # A
  - [AWS][1] - A cloud computing platform offering ready to use web services which are loosely coupled.
- - Ansible - An agent-less orchestration engine that can automate application and systems.
- - Asgard - A netflix web interface tool for AWS Cloud Management and application deployment.
- - Artifactory - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
- - Awsbox - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
+ - [Ansible][http://www.ansible.com/] - An agent-less orchestration engine that can automate application and systems.
+ - [Asgard][] - A netflix web interface tool for AWS Cloud Management and application deployment.
+ - [Artifactory][] - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
+ - [Awsbox][] - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
  
 # B
  - Beats - An open source collectors for log files, infrastructure metrics, and other important types of data agitation.
@@ -109,12 +109,14 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Orc - A model driven orchestration tool for the deployment of application clusters written in Ruby.
  - Opskelaton - Bootstrap DevOps infra with some opinionated defaults(vagrant chef puppet) standard development guidelines.
  - Overcast - CLI for ease to spinup configure & manage clusters without learning curve or complexity of existing management tools.
+ - Openshift - 
  
 # P
  - Packer - A tool for creating identical machine images for multiple platforms from a single source configuration
  - Pagerduty - A tool which would help us to increase the uptime of our apps, services, and infrastructure.
  - Poni - Systems management tool for defining, deploying and verifying complex multi-node computer systems.
  - Pulp - A platform for managing repositories of content, such as software packages.
+ - Prometheus - 
  
 # Q
  
