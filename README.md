@@ -105,69 +105,69 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 
 # O
  - [Openstack](https://www.openstack.org/) - An open source, massively salable cloud operating system used for building private & public cloud.
- - Opsbot - A pluggable, configurable bot for improving communication in operations.
- - OSV - An operating System for lightweight virtual machines, designed for ground up to run single application, similar to CoreOS.
+ - [Opsbot](https://opsbot.com/) - A pluggable, configurable bot for improving communication in operations.
+ - [OSV](http://osv.io) - An operating System for lightweight virtual machines, designed for ground up to run single application, similar to CoreOS.
  - [Otto](https://www.ottoproject.io/) - successor to Vagrant is single solution to develop, deploy application with firstclass support to microservices.
- - Orc - A model driven orchestration tool for the deployment of application clusters written in Ruby.
- - Opskelaton - Bootstrap DevOps infra with some opinionated defaults(vagrant chef puppet) standard development guidelines.
- - Overcast - CLI for ease to spinup configure & manage clusters without learning curve or complexity of existing management tools.
+ - [Orc](https://github.com/tim-group/orc) - A model driven orchestration tool for the deployment of application clusters written in Ruby.
+ - [Opskelaton](https://github.com/opskeleton/opskeleton) - Bootstrap DevOps infra with some opinionated defaults(vagrant chef puppet) standard development guidelines.
+ - [Overcast](https://github.com/andrewchilds/overcast) - CLI for ease to spinup configure & manage clusters without learning curve or complexity of existing management tools.
  - [Openshift](https://www.openshift.com/) - Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
 
 # P
- - Packer - A tool for creating identical machine images for multiple platforms from a single source configuration
- - Pagerduty - A tool which would help us to increase the uptime of our apps, services, and infrastructure.
- - Poni - Systems management tool for defining, deploying and verifying complex multi-node computer systems.
- - Pulp - A platform for managing repositories of content, such as software packages.
+ - [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration
+ - [Pagerduty](https://www.pagerduty.com/) - A tool which would help us to increase the uptime of our apps, services, and infrastructure.
+ - [Poni](http://melor.github.io/poni/) - Systems management tool for defining, deploying and verifying complex multi-node computer systems.
+ - [Pulp](www.pulpproject.org/) - A platform for managing repositories of content, such as software packages.
  - [Prometheus](http://prometheus.io/) - open-source service monitoring system and time series database.
 
 # Q
 
 # R
- - RabbitMQ - RabbitMQ is a queuing tool for DevOps engineers. Supports a large no. of development platforms.
- - Rundeck - A cross-platform opensource software, helps automate ad-hoc & routine procedures in data-center or cloud environment.
- - rkt - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
- - Rudder - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
- - Rex - An agent less orchestration tool written in simple perl.
+ - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is a queuing tool for DevOps engineers. Supports a large no. of development platforms.
+ - [Rundeck](rundeck.org/) - A cross-platform opensource software, helps automate ad-hoc & routine procedures in data-center or cloud environment.
+ - [rkt](https://github.com/coreos/rkt) - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
+ - [Rudder](www.rudder-project.org/) - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
+ - [Rex](https://www.rexify.org/) - An agent less orchestration tool written in simple perl.
 
 # S
- - Sensu - A simple & scalable monitoring framework which is designed for cloud.
- - Simian Army - A tool for testing & promoting infrastructure tolerance & high availability.
- - Snort - An open-source IPS. It provides real-time traffic analysis and packet logging for DevOps engineers.
- - SumoLogic - Centralized Log Analysis tool, which scale to any data volume and query performance.
- - Serf - A lightweight & decentralized solution for cluster membership, failure detection & orchestration.
- - SaltStack - Configuration Management software, delivers fast,scalable event-driven infrastructure automation & predictive cloud orchestration.
- - Slaughter - A perl tool for automating configuration maintenance & management of large number of systems.
- - StackStorm - Event-driven automation used for auto-healing, security responses, troubleshooting, complex deployments.
- - Sequencer - Open-Source Software that can ping, power off and power on your whole cluster.
- - Sunzi - Shell-based provisioning tool which does not try to do anything else. Has no dependency other than shell.
- - Sysdig - An open source, system level exploration: capture system state & activity in linux instance save, filter & analyze.
- - Semaphore - A hosted continuous integration and deployment service for open source and private projects.
- - Sublime-Text - Sublime Text is a cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and its functionality can be extended by users with plugins, typically community-built.
+ - [Sensu](https://sensuapp.org/) - A simple & scalable monitoring framework which is designed for cloud.
+ - [Simian Army](https://github.com/Netflix/SimianArmy) - A tool for testing & promoting infrastructure tolerance & high availability.
+ - [Snort](https://www.snort.org/) - An open-source IPS. It provides real-time traffic analysis and packet logging for DevOps engineers.
+ - [SumoLogic](https://www.sumologic.com/) - Centralized Log Analysis tool, which scale to any data volume and query performance.
+ - [Serf](https://www.serfdom.io/) - A lightweight & decentralized solution for cluster membership, failure detection & orchestration.
+ - [SaltStack](saltstack.com/) - Configuration Management software, delivers fast,scalable event-driven infrastructure automation & predictive cloud orchestration.
+ - [Slaughter](https://github.com/skx/slaughter) - A perl tool for automating configuration maintenance & management of large number of systems.
+ - [StackStorm](https://stackstorm.com/) - Event-driven automation used for auto-healing, security responses, troubleshooting, complex deployments.
+ - [Sequencer](pv-bull.github.io/sequencer/) - Open-Source Software that can ping, power off and power on your whole cluster.
+ - [Sunzi](https://github.com/kenn/sunzi) - Shell-based provisioning tool which does not try to do anything else. Has no dependency other than shell.
+ - [Sysdig](www.sysdig.org/) - An open source, system level exploration: capture system state & activity in linux instance save, filter & analyze.
+ - [Semaphore](https://semaphoreci.com/) - A hosted continuous integration and deployment service for open source and private projects.
+ - [Sublime-Text](https://www.sublimetext.com/) - Sublime Text is a cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and its functionality can be extended by users with plugins, typically community-built.
 
 # T
- - Terraform - A tool used in building, changing, and versioning the infrastructure across platforms.
- - Test Kitchen - A test harness tool to execute your configured code on one or more platforms in isolation.
- - Tsuru - An extensible and open source Platform as a Service; that uses Docker to make deploys simple & fast.
- - TeamCity - A feature packed CI tool with out-of-the-box support for java, ruby .Net, & many other languages.
+ - [Terraform](https://www.terraform.io/) - A tool used in building, changing, and versioning the infrastructure across platforms.
+ - [Test Kitchen](kitchen.ci/ ) - A test harness tool to execute your configured code on one or more platforms in isolation.
+ - [Tsuru](https://tsuru.io/) - An extensible and open source Platform as a Service; that uses Docker to make deploys simple & fast.
+ - [TeamCity](https://www.jetbrains.com/teamcity/) - A feature packed CI tool with out-of-the-box support for java, ruby .Net, & many other languages.
 
 # U
 
 # V
- - Vagrant - It is a cross platform tool to create, boot, configure and destroy development environments.
- - Veewee - A tool for easily & repeatedly building custom Vagrant base boxes, KVMs, & virtual machine images.
- - Vagrant-lxc - Vagrant plugin that allows it to control and provision Linux Containers as an alternative to the built in VirtualBox provider for Linux host.
- - Vaurien - A Chaos Monkey for TCP conn. Randomly disconnects/stalls TCP connections in app to test tolerance and HA.
- - VMFest - a PalletOps project turns VirtualBox into light-weight cloud provider. Useful in developing cloud automation.
+ - [Vagrant](https://www.vagrantup.com/) - It is a cross platform tool to create, boot, configure and destroy development environments.
+ - [Veewee](https://github.com/jedi4ever/veewee) - A tool for easily & repeatedly building custom Vagrant base boxes, KVMs, & virtual machine images.
+ - [Vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - Vagrant plugin that allows it to control and provision Linux Containers as an alternative to the built in VirtualBox provider for Linux host.
+ - [Vaurien](https://github.com/mozilla-services/vaurien) - A Chaos Monkey for TCP conn. Randomly disconnects/stalls TCP connections in app to test tolerance and HA.
+ - [VMFest](hackersome.com/p/arohner/vmfest) - a PalletOps project turns VirtualBox into light-weight cloud provider. Useful in developing cloud automation.
 
 # W
- - Weave - Virtual network that connects Docker containers deployed across multiple hosts & enables automatic discovery.
+ - [Weave](https://github.com/weaveworks/weave) - Virtual network that connects Docker containers deployed across multiple hosts & enables automatic discovery.
 
 # X
 
 # Y
 
 # Z
- - Zabbix - An opensource, enterprise-class network monitoring framework.
+ - [Zabbix](www.zabbix.com/) - An opensource, enterprise-class network monitoring framework.
  - Zookeeper - A centralized service for maintaining configuration information, naming, providing group services etc.
 
 
