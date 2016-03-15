@@ -1,9 +1,9 @@
-# DevOps Glossary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# DevOps Glossary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Build Status](https://travis-ci.org/TheRemoteLab/devops-glossary.svg?branch=master)](https://travis-ci.org/TheRemoteLab/devops-glossary)
 
 
-The Complete DevOps Glossary - Covering DevOps from A to Z. 
+The Complete DevOps Glossary - Covering DevOps from A to Z.
 
 " Alphabetically arranged reference work that gives brief definitions of words related to a specific topic. Also called controlled vocabulary." - [Source](http://www.businessdictionary.com/definition/glossary.html#ixzz3x2CyAJi6)
 
@@ -15,12 +15,12 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ K ](#k) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ Q ](#q) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w) | [ X ](#x) | [ Y ](#y) | [ Z ](#z) |
 
 # A
- - [AWS]([1]: https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
+ - [AWS](https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
  - [Ansible](http://www.ansible.com/) - An agent-less orchestration engine that can automate application and systems.
  - [Asgard](https://github.com/Netflix/asgard/wiki) - A netflix web interface tool for AWS Cloud Management and application deployment.
  - [Artifactory](https://github.com/Netflix/asgard/wiki) - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
  - [Awsbox](http://awsbox.org/) - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
- 
+
 # B
  - Beats - An open source collectors for log files, infrastructure metrics, and other important types of data agitation.
  - Berkshelf - Cookbook source manager for chef, similar to a bundler for ruby.
@@ -29,7 +29,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - BuildMaster - An automated deployment tool. It combines features to manage and automate processes primarily related to continuous integration, database change scripts, and production deployments.
  - Brooklyn - Focused on deployment & post deployment life-cycle management, aware of network typologies integrates with clouds.
  - Barkeep - Code review tool for git projects, focused on code reviewing, can support both pre & post commit workflows.
- 
+
 # C
  - Consul - Makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface.
  - Chef - Configuration management tool which uses a pure-Ruby, DSL for writing system configuration recipes.
@@ -42,7 +42,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Credmgr - Securely manage privileged account credentials via Shamir secret sharing. Its like one passwd for DevOps.
  - ConDep - An opensource infrastructure configuration & deployment DSL specifically targeted (not limited) to Windows platform.
  - CMB(Cloud Message Bus) - A highly available, horizontally scalable queuing & notification service compatible to AWS SQS, SNS.
- 
+
 # D
  - [Docker](https://www.docker.com/) - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
  - [Deis](http://deis.io/) - Open Source Application Platform For Public and Private Clouds. Its built on Docker & CoreOs.
@@ -50,11 +50,11 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Dokku - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
  - Deploykit - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
  - Djangy - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
- 
+
 # E
  - Etcd - A highly-available key value store for shared configuration and service discovery.
  - Eucalyptus - An open source software for building AWS - compatible private and hybrid clouds.
- 
+
 # F
  - Fig - A package management tool, similar to APT, language agnostic, faster and works well with both executable and libraries.
  - Foreman - A complete lifecycle management tool for physical and virtual servers.
@@ -63,7 +63,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Fabric - A command-line tool for streamlining use of SSH for application deployment or systems administration tasks.
  - FAI Fully Automatic Installer - Tool for mass unattained deployments of Linux.
  - [Flannel](https://coreos.com/flannel) - etcd backed network fabric for containers
- 
+
 # G
  - Git - An awesome tool to version your source code and collaborate.
  - Graphite - A visualization tool for statistics. One can create customizable reports and dashboards.
@@ -71,38 +71,38 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Gradle - A project automation tool that builds upon the concepts of #Apache Ant and Apache Maven.
  - Grafana - An open source feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
  - GoCD - release management tool,build from ground up with pipelines in mind & makes easy to model complex deployment work-flow.
- 
+
 # H
  - Heroku - Platform as a service (PaaS) that enables developers to build and run applications entirely in the cloud.
- 
+
 # I
  - Icinga - A monitoring system checking hosts & services you specify & notifying when things go wrong & they recover.
- 
+
 # J
  - Jenkins - It is an open-source, lightweight CI tool written in Java, with high extensibility and a fast release cycle.
  - Jcloud - Apache jclouds, an open source multi-cloud toolkit for the Java platform, apps are portable across clouds.
  - Juju - An orchestration tool allows software to be quickly deployed, integrated & scaled public/private/hybrid cloud.
- 
+
 # K
  - [Kubernetes](http://kubernetes.io/) - An opensource system for managing containerized applications providing deployment & scaling of apps.
  - Kickstart - Uses bash scripts to provision machines over ssh, with no client installation on the target.
  - Kibana - an open source (Apache Licensed), browser based analytic and search dashboard for Elasticsearch.
  - [Kafka](http://kafka.apache.org/) -  distributed, partitioned, replicated commit log service.
- 
+
 # L
  - Logstash - A data pipeline that helps you process logs and other event data from a variety of systems.
  - Log.io - A Real-time log monitoring in your browser. Broadcasting logs to the web clients.
  - Loom - Does stuff Puppet doesn't do well or at all bootstrapping machines deploying code & installing reusable modules.
  - Logster - Utility for reading logs & generating metrics to configurable outputs. Graphite, CloudWatch, Nagios & stdout.
- 
+
 # M
  - Memcached - An open-source high performance, distributed memory object caching system.
  - Mcollective - A framework for building server orchestration or parallel job execution systems.
  - Mina - Deployment tool, lets you build and run scripts to manage your app deployments on servers via SSH.
- 
+
 # N
  - Nomad - A Hashicorp product; is a cluster manager & scheduler designed for microservices and batch workloads.
- 
+
 # O
  - [Openstack](https://www.openstack.org/) - An open source, massively salable cloud operating system used for building private & public cloud.
  - Opsbot - A pluggable, configurable bot for improving communication in operations.
@@ -112,23 +112,23 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Opskelaton - Bootstrap DevOps infra with some opinionated defaults(vagrant chef puppet) standard development guidelines.
  - Overcast - CLI for ease to spinup configure & manage clusters without learning curve or complexity of existing management tools.
  - [Openshift](https://www.openshift.com/) - Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
- 
+
 # P
  - Packer - A tool for creating identical machine images for multiple platforms from a single source configuration
  - Pagerduty - A tool which would help us to increase the uptime of our apps, services, and infrastructure.
  - Poni - Systems management tool for defining, deploying and verifying complex multi-node computer systems.
  - Pulp - A platform for managing repositories of content, such as software packages.
  - [Prometheus](http://prometheus.io/) - open-source service monitoring system and time series database.
- 
+
 # Q
- 
+
 # R
  - RabbitMQ - RabbitMQ is a queuing tool for DevOps engineers. Supports a large no. of development platforms.
  - Rundeck - A cross-platform opensource software, helps automate ad-hoc & routine procedures in data-center or cloud environment.
  - rkt - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
  - Rudder - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
  - Rex - An agent less orchestration tool written in simple perl.
- 
+
 # S
  - Sensu - A simple & scalable monitoring framework which is designed for cloud.
  - Simian Army - A tool for testing & promoting infrastructure tolerance & high availability.
@@ -143,15 +143,15 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - Sysdig - An open source, system level exploration: capture system state & activity in linux instance save, filter & analyze.
  - Semaphore - A hosted continuous integration and deployment service for open source and private projects.
  - Sublime-Text - Sublime Text is a cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and its functionality can be extended by users with plugins, typically community-built.
- 
+
 # T
  - Terraform - A tool used in building, changing, and versioning the infrastructure across platforms.
  - Test Kitchen - A test harness tool to execute your configured code on one or more platforms in isolation.
  - Tsuru - An extensible and open source Platform as a Service; that uses Docker to make deploys simple & fast.
  - TeamCity - A feature packed CI tool with out-of-the-box support for java, ruby .Net, & many other languages.
- 
+
 # U
- 
+
 # V
  - Vagrant - It is a cross platform tool to create, boot, configure and destroy development environments.
  - Veewee - A tool for easily & repeatedly building custom Vagrant base boxes, KVMs, & virtual machine images.
@@ -161,16 +161,16 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 
 # W
  - Weave - Virtual network that connects Docker containers deployed across multiple hosts & enables automatic discovery.
- 
+
 # X
- 
+
 # Y
- 
+
 # Z
  - Zabbix - An opensource, enterprise-class network monitoring framework.
  - Zookeeper - A centralized service for maintaining configuration information, naming, providing group services etc.
- 
- 
+
+
 ## Contributing:
 
 Contributions are welcome!
