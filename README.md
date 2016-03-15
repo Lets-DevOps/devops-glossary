@@ -22,26 +22,26 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Awsbox](http://awsbox.org/) - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
 
 # B
- - Beats - An open source collectors for log files, infrastructure metrics, and other important types of data agitation.
- - Berkshelf - Cookbook source manager for chef, similar to a bundler for ruby.
- - Buildbot - An open-source framework for automating software build, test and release process.
- - Bento - A project that encapsulates Packer templates for building Vagrant base boxes.
- - BuildMaster - An automated deployment tool. It combines features to manage and automate processes primarily related to continuous integration, database change scripts, and production deployments.
- - Brooklyn - Focused on deployment & post deployment life-cycle management, aware of network typologies integrates with clouds.
- - Barkeep - Code review tool for git projects, focused on code reviewing, can support both pre & post commit workflows.
+ - [Beats](https://www.elastic.co/products/beats) - An open source collectors for log files, infrastructure metrics, and other important types of data agitation.
+ - [Berkshelf](http://berkshelf.com) - Cookbook source manager for chef, similar to a bundler for ruby.
+ - [Buildbot](http://buildbot.net) - An open-source framework for automating software build, test and release process.
+ - [Bento](https://www.bento.io) - A project that encapsulates Packer templates for building Vagrant base boxes.
+ - [BuildMaster](http://inedo.com/buildmaster) - An automated deployment tool. It combines features to manage and automate processes primarily related to continuous integration, database change scripts, and production deployments.
+ - [Brooklyn](https://brooklyn.apache.org) - Focused on deployment & post deployment life-cycle management, aware of network typologies integrates with clouds.
+ - [Barkeep](http://getbarkeep.org) - Code review tool for git projects, focused on code reviewing, can support both pre & post commit workflows.
 
 # C
- - Consul - Makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface.
+ - [Consul](https://www.consul.io) - Makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface.
  - Chef - Configuration management tool which uses a pure-Ruby, DSL for writing system configuration recipes.
  - [CoreOS](https://coreos.com) - Lightweight OS that support containers out of the box. Can be used as base OS to run your own PaaS
- - CfEngine - First of its kind. Configuration Management tool, automates large scale, complex infrastructure.
- - Collectd - Demon to collect system performance statistics periodically & provides tons of plugins to analyze values.
- - Chocolatey - It is apt-get for windows. Can install packages & dependencies over CLI.
- - CruiseControl - A CI server written in #Ruby with a focus on simplicity & being easy to hack.
- - Capistrano - A remote server automation and deployment tool written in Ruby.
- - Credmgr - Securely manage privileged account credentials via Shamir secret sharing. Its like one passwd for DevOps.
- - ConDep - An opensource infrastructure configuration & deployment DSL specifically targeted (not limited) to Windows platform.
- - CMB(Cloud Message Bus) - A highly available, horizontally scalable queuing & notification service compatible to AWS SQS, SNS.
+ - [CfEngine](https://cfengine.com/) - First of its kind. Configuration Management tool, automates large scale, complex infrastructure.
+ - [Collectd](https://collectd.org/) - Demon to collect system performance statistics periodically & provides tons of plugins to analyze values.
+ - [Chocolatey](https://chocolatey.org/) - It is apt-get for windows. Can install packages & dependencies over CLI.
+ - [CruiseControl](cruisecontrol.sourceforge.net/) - A CI server written in #Ruby with a focus on simplicity & being easy to hack.
+ - [Capistrano](capistranorb.com/) - A remote server automation and deployment tool written in Ruby.
+ - [Credmgr](https://github.com/treyka/credmgr) - Securely manage privileged account credentials via Shamir secret sharing. Its like one passwd for DevOps.
+ - [ConDep](www.condep.io/) - An opensource infrastructure configuration & deployment DSL specifically targeted (not limited) to Windows platform.
+ - [CMB(Cloud Message Bus)](https://github.com/Comcast/cmb) - A highly available, horizontally scalable queuing & notification service compatible to AWS SQS, SNS.
 
 # D
  - [Docker](https://www.docker.com/) - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
