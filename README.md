@@ -32,7 +32,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 
 # C
  - [Consul](https://www.consul.io) - Makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface.
- - Chef - Configuration management tool which uses a pure-Ruby, DSL for writing system configuration recipes.
+ - [Chef](http://chef.io) - Configuration management tool which uses a pure-Ruby, DSL for writing system configuration recipes.
  - [CoreOS](https://coreos.com) - Lightweight OS that support containers out of the box. Can be used as base OS to run your own PaaS
  - [CfEngine](https://cfengine.com/) - First of its kind. Configuration Management tool, automates large scale, complex infrastructure.
  - [Collectd](https://collectd.org/) - Demon to collect system performance statistics periodically & provides tons of plugins to analyze values.
@@ -47,61 +47,61 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Docker](https://www.docker.com/) - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
  - [Deis](http://deis.io/) - Open Source Application Platform For Public and Private Clouds. Its built on Docker & CoreOs.
  - [Drone](https://drone.io) - A Continuous Integration platform built on Docker, written in Go.
- - Dokku - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
- - Deploykit - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
- - Djangy - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
+ - [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
+ - [Deploykit](https://github.com/FuturePublishing/future-deploykit) - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
+ - [Djangy](https://www.crunchbase.com/organization/djangy) - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
 
 # E
- - Etcd - A highly-available key value store for shared configuration and service discovery.
- - Eucalyptus - An open source software for building AWS - compatible private and hybrid clouds.
+ - [Etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery.
+ - [Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) - An open source software for building AWS - compatible private and hybrid clouds.
 
 # F
- - Fig - A package management tool, similar to APT, language agnostic, faster and works well with both executable and libraries.
- - Foreman - A complete lifecycle management tool for physical and virtual servers.
- - Fpm - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
- - Flynn - An open source PaaS platform built on Docker awesomely manages deploying, scaling your applications.
- - Fabric - A command-line tool for streamlining use of SSH for application deployment or systems administration tasks.
- - FAI Fully Automatic Installer - Tool for mass unattained deployments of Linux.
+ - [Fig](https://github.com/mfoemmel/fig) - A package management tool, similar to APT, language agnostic, faster and works well with both executable and libraries.
+ - [Foreman](theforeman.org/) - A complete lifecycle management tool for physical and virtual servers.
+ - [Fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+ - [Flynn](https://flynn.io/) - An open source PaaS platform built on Docker awesomely manages deploying, scaling your applications.
+ - [Fabric](www.fabfile.org/) - A command-line tool for streamlining use of SSH for application deployment or systems administration tasks.
+ - [FAI Fully Automatic Installer](fai-project.org/) - Tool for mass unattained deployments of Linux.
  - [Flannel](https://coreos.com/flannel) - etcd backed network fabric for containers
 
 # G
- - Git - An awesome tool to version your source code and collaborate.
- - Graphite - A visualization tool for statistics. One can create customizable reports and dashboards.
- - Ganglia - A salable distributed monitoring system for high-performance computing systems such as clusters & grids.
- - Gradle - A project automation tool that builds upon the concepts of #Apache Ant and Apache Maven.
- - Grafana - An open source feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
- - GoCD - release management tool,build from ground up with pipelines in mind & makes easy to model complex deployment work-flow.
+ - [Git](https://git-scm.com/) - An awesome tool to version your source code and collaborate.
+ - [Graphite](graphite.wikidot.com/) - A visualization tool for statistics. One can create customizable reports and dashboards.
+ - [Ganglia](ganglia.info/) - A salable distributed monitoring system for high-performance computing systems such as clusters & grids.
+ - [Gradle](gradle.org/) -  A project automation tool that builds upon the concepts of #Apache Ant and Apache Maven.
+ - [Grafana](grafana.org/) - An open source feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
+ - [GoCD](https://www.go.cd/) - release management tool,build from ground up with pipelines in mind & makes easy to model complex deployment work-flow.
 
 # H
- - Heroku - Platform as a service (PaaS) that enables developers to build and run applications entirely in the cloud.
+ - [Heroku](https://www.heroku.com/) - Platform as a service (PaaS) that enables developers to build and run applications entirely in the cloud.
 
 # I
- - Icinga - A monitoring system checking hosts & services you specify & notifying when things go wrong & they recover.
+ - [Icinga](https://www.icinga.org/) - A monitoring system checking hosts & services you specify & notifying when things go wrong & they recover.
 
 # J
- - Jenkins - It is an open-source, lightweight CI tool written in Java, with high extensibility and a fast release cycle.
- - Jcloud - Apache jclouds, an open source multi-cloud toolkit for the Java platform, apps are portable across clouds.
- - Juju - An orchestration tool allows software to be quickly deployed, integrated & scaled public/private/hybrid cloud.
+ - [Jenkins](https://jenkins-ci.org/) - It is an open-source, lightweight CI tool written in Java, with high extensibility and a fast release cycle.
+ - [Jcloud](https://jclouds.apache.org/) - Apache jclouds, an open source multi-cloud toolkit for the Java platform, apps are portable across clouds.
+ - [Juju](https://jujucharms.com/) - An orchestration tool allows software to be quickly deployed, integrated & scaled public/private/hybrid cloud.
 
 # K
  - [Kubernetes](http://kubernetes.io/) - An opensource system for managing containerized applications providing deployment & scaling of apps.
- - Kickstart - Uses bash scripts to provision machines over ssh, with no client installation on the target.
- - Kibana - an open source (Apache Licensed), browser based analytic and search dashboard for Elasticsearch.
+ - [Kickstart](http://kickstart-tools.sourceforge.net) - Uses bash scripts to provision machines over ssh, with no client installation on the target.
+ - [Kibana](https://www.elastic.co/products/kibana) - an open source (Apache Licensed), browser based analytic and search dashboard for Elasticsearch.
  - [Kafka](http://kafka.apache.org/) -  distributed, partitioned, replicated commit log service.
 
 # L
- - Logstash - A data pipeline that helps you process logs and other event data from a variety of systems.
- - Log.io - A Real-time log monitoring in your browser. Broadcasting logs to the web clients.
- - Loom - Does stuff Puppet doesn't do well or at all bootstrapping machines deploying code & installing reusable modules.
- - Logster - Utility for reading logs & generating metrics to configurable outputs. Graphite, CloudWatch, Nagios & stdout.
+ - [Logstash](https://www.elastic.co/products/logstash) - A data pipeline that helps you process logs and other event data from a variety of systems.
+ - [Log.io](http://log.io/) - A Real-time log monitoring in your browser. Broadcasting logs to the web clients.
+ - [Loom](https://github.com/bfirsh/loom) - Does stuff Puppet doesn't do well or at all bootstrapping machines deploying code & installing reusable modules.
+ - [Logster](https://github.com/etsy/logster) - Utility for reading logs & generating metrics to configurable outputs. Graphite, CloudWatch, Nagios & stdout.
 
 # M
- - Memcached - An open-source high performance, distributed memory object caching system.
- - Mcollective - A framework for building server orchestration or parallel job execution systems.
- - Mina - Deployment tool, lets you build and run scripts to manage your app deployments on servers via SSH.
+ - [Memcached](memcached.org/) - An open-source high performance, distributed memory object caching system.
+ - [Mcollective](https://puppetlabs.com/mcollective) - A framework for building server orchestration or parallel job execution systems.
+ - [Mina](nadarei.co/mina/) - Deployment tool, lets you build and run scripts to manage your app deployments on servers via SSH.
 
 # N
- - Nomad - A Hashicorp product; is a cluster manager & scheduler designed for microservices and batch workloads.
+ - [Nomad](https://www.nomadproject.io/) - A Hashicorp product; is a cluster manager & scheduler designed for microservices and batch workloads.
 
 # O
  - [Openstack](https://www.openstack.org/) - An open source, massively salable cloud operating system used for building private & public cloud.
