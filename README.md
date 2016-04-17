@@ -17,8 +17,9 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 # A
  - [AWS](https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
  - [Ansible](http://www.ansible.com/) - An agent-less orchestration engine that can automate application and systems.
- - [Asgard](https://github.com/Netflix/asgard/wiki) - A netflix web interface tool for AWS Cloud Management and application deployment.
  - [Artifactory](https://github.com/Netflix/asgard/wiki) - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
+ - [Asgard](https://github.com/Netflix/asgard/wiki) - A netflix web interface tool for AWS Cloud Management and application deployment.
+ - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
  - [Awsbox](http://awsbox.org/) - A featherweight DYI PaaS on top of awscloud EC2 for deploying node apps.
 
 # B
@@ -44,7 +45,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [CMB(Cloud Message Bus)](https://github.com/Comcast/cmb) - A highly available, horizontally scalable queuing & notification service compatible to AWS SQS, SNS.
 
 # D
- - [Docker](https://www.docker.com/) - Uses LXC to create and manage native, sandboxed virtual containers. Build, Ship, Run.
+ - [Docker](https://www.docker.com/) - Package an application with all of its dependencies into a standardized unit for software development. Build, Ship, Run.
  - [Deis](http://deis.io/) - Open Source Application Platform For Public and Private Clouds. Its built on Docker & CoreOs.
  - [Drone](https://drone.io) - A Continuous Integration platform built on Docker, written in Go.
  - [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
@@ -106,6 +107,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 # O
  - [Openstack](https://www.openstack.org/) - An open source, massively salable cloud operating system used for building private & public cloud.
  - [Opsbot](https://opsbot.com/) - A pluggable, configurable bot for improving communication in operations.
+ - [OpsGenie](https://www.opsgenie.com/) - Tools you need to design meaningful, actionable alerts and ensure the right people are notified.
  - [OSV](http://osv.io) - An operating System for lightweight virtual machines, designed for ground up to run single application, similar to CoreOS.
  - [Otto](https://www.ottoproject.io/) - successor to Vagrant is single solution to develop, deploy application with firstclass support to microservices.
  - [Orc](https://github.com/tim-group/orc) - A model driven orchestration tool for the deployment of application clusters written in Ruby.
@@ -135,7 +137,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Snort](https://www.snort.org/) - An open-source IPS. It provides real-time traffic analysis and packet logging for DevOps engineers.
  - [SumoLogic](https://www.sumologic.com/) - Centralized Log Analysis tool, which scale to any data volume and query performance.
  - [Serf](https://www.serfdom.io/) - A lightweight & decentralized solution for cluster membership, failure detection & orchestration.
- - [SaltStack](saltstack.com/) - Configuration Management software, delivers fast,scalable event-driven infrastructure automation & predictive cloud orchestration.
+ - [SaltStack](http://saltstack.com/) - Configuration Management software, delivers fast, scalable event-driven infrastructure automation & predictive cloud orchestration.
  - [Slaughter](https://github.com/skx/slaughter) - A perl tool for automating configuration maintenance & management of large number of systems.
  - [StackStorm](https://stackstorm.com/) - Event-driven automation used for auto-healing, security responses, troubleshooting, complex deployments.
  - [Sequencer](pv-bull.github.io/sequencer/) - Open-Source Software that can ping, power off and power on your whole cluster.
