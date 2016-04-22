@@ -17,6 +17,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 # A
  - [AWS](https://aws.amazon.com) - A cloud computing platform offering ready to use web services which are loosely coupled.
  - [Ansible](http://www.ansible.com/) - An agent-less orchestration engine that can automate application and systems.
+ - [Aptly](https://github.com/smira/aptly) - A Debian repository management tool
  - [Artifactory](https://github.com/Netflix/asgard/wiki) - JFrog’s open source binary repository management product with support for Apache Maven artifacts.
  - [Asgard](https://github.com/Netflix/asgard/wiki) - A netflix web interface tool for AWS Cloud Management and application deployment.
  - [Atom](https://atom.io/) - Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
@@ -151,6 +152,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Test Kitchen](kitchen.ci/ ) - A test harness tool to execute your configured code on one or more platforms in isolation.
  - [Tsuru](https://tsuru.io/) - An extensible and open source Platform as a Service; that uses Docker to make deploys simple & fast.
  - [TeamCity](https://www.jetbrains.com/teamcity/) - A feature packed CI tool with out-of-the-box support for java, ruby .Net, & many other languages.
+ - [Travis CI](https://travis-ci.org/) - A Continuos Integration tool easy to integrate with Github Projects
 
 # U
 
