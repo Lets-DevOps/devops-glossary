@@ -50,6 +50,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
  - [Deploykit](https://github.com/FuturePublishing/future-deploykit) - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
  - [Djangy](https://www.crunchbase.com/organization/djangy) - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
+ - [Diamond](http://diamond.readthedocs.io/en/latest/) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others).
 
 # E
  - [Etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery.
