@@ -128,6 +128,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [rkt](https://github.com/coreos/rkt) - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
  - [Rudder](www.rudder-project.org/) - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
  - [Rex](https://www.rexify.org/) - An agent less orchestration tool written in simple perl.
+ - [Riemann](http://riemann.io/) - Riemann monitors distributed systems.
 
 # S
  - [Sensu](https://sensuapp.org/) - A simple & scalable monitoring framework which is designed for cloud.
@@ -143,6 +144,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Sysdig](www.sysdig.org/) - An open source, system level exploration: capture system state & activity in linux instance save, filter & analyze.
  - [Semaphore](https://semaphoreci.com/) - A hosted continuous integration and deployment service for open source and private projects.
  - [Sublime-Text](https://www.sublimetext.com/) - Sublime Text is a cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and its functionality can be extended by users with plugins, typically community-built.
+ - [SignalFx](https://signalfx.com/) - Monitoring and Operational Intelligence for the Cloud.
 
 # T
  - [Terraform](https://www.terraform.io/) - A tool used in building, changing, and versioning the infrastructure across platforms.
