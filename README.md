@@ -51,7 +51,8 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Drone](https://drone.io) - A Continuous Integration platform built on Docker, written in Go.
  - [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku, a smallest PaaS implementation you've ever seen around 100 lines of Bash.
  - [Deploykit](https://github.com/FuturePublishing/future-deploykit) - Collection of Ruby daemons flying in close formation. AKA our startling message-based deploy environment.
- - [Djangy](https://crunchbase.com/organization/djangy#/entity) - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
+ - [Djangy](https://www.crunchbase.com/organization/djangy) - An open source cloud hosting service for Python/Django web apps. Its like Heroku for Python/Django.
+ - [Diamond](http://diamond.readthedocs.io/en/latest/) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others).
 
 # E
  - [Etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery.
@@ -131,6 +132,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [rkt](https://github.com/coreos/rkt) - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
  - [Rudder](www.rudder-project.org/) - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
  - [Rex](https://www.rexify.org/) - An agent less orchestration tool written in simple perl.
+ - [Riemann](http://riemann.io/) - Riemann monitors distributed systems.
 
 # S
  - [Sensu](https://sensuapp.org/) - A simple & scalable monitoring framework which is designed for cloud.
@@ -146,6 +148,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
  - [Sysdig](www.sysdig.org/) - An open source, system level exploration: capture system state & activity in linux instance save, filter & analyze.
  - [Semaphore](https://semaphoreci.com/) - A hosted continuous integration and deployment service for open source and private projects.
  - [Sublime-Text](https://www.sublimetext.com/) - Sublime Text is a cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and its functionality can be extended by users with plugins, typically community-built.
+ - [SignalFx](https://signalfx.com/) - Monitoring and Operational Intelligence for the Cloud.
 
 # T
  - [Terraform](https://www.terraform.io/) - A tool used in building, changing, and versioning the infrastructure across platforms.
