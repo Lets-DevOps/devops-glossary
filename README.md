@@ -129,7 +129,7 @@ The Complete DevOps Glossary - Covering DevOps from A to Z.
 # R
  - [RabbitMQ](https://www.rabbitmq.com/) - RabbitMQ is a queuing tool for DevOps engineers. Supports a large no. of development platforms.
  - [Rundeck](rundeck.org/) - A cross-platform opensource software, helps automate ad-hoc & routine procedures in data-center or cloud environment.
- - [rkt](https://github.com/coreos/rkt) - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fas.
+ - [rkt](https://github.com/coreos/rkt) - CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast.
  - [Rudder](www.rudder-project.org/) - An easy to use, web-driven, role-based solution for IT Infrastructure Automation.
  - [Rex](https://www.rexify.org/) - An agent less orchestration tool written in simple perl.
  - [Riemann](http://riemann.io/) - Riemann monitors distributed systems.
